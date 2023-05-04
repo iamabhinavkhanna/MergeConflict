@@ -1,8 +1,5 @@
 hey there
 
 
-<<<<<<< HEAD
 why ?
-=======
 waht do you do ?
->>>>>>> func
